@@ -1,1 +1,2 @@
-# gan-pytorch-example
+# Generative adversarial networks using PyTorch
+Examples
